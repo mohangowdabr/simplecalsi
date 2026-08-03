@@ -1,4 +1,3 @@
-# Simple Calculator
 
 def add(x, y):
     return x + y
@@ -16,7 +15,7 @@ def divide(x, y):
 
 
 print("Simple Calculator")
-print("Select operation:")
+print("Select operation MAN:")
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
@@ -46,5 +45,5 @@ while True:
 
     next_calc = input("Do you want to perform another calculation? (yes/no): ")
     if next_calc.lower() != 'yes':
-        print("Goodbye!")
+        print("Goodbye! TAKECARE")
         break
