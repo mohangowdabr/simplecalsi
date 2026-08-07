@@ -9,7 +9,9 @@ def calculate_square_root():
         result = math.sqrt(value)
         print(f"Square root of {value} is {result}")
     except ValueError:
-        print("Invalid input. Please enter a numeric value.")
+        print("Invalid input. Please enter a correct one.")
 
 if __name__ == "__main__":
     calculate_square_root()
+
+
