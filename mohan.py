@@ -13,7 +13,3 @@ def calculate_square_root():
 
 if __name__ == "__main__":
     calculate_square_root()
-
-# meow meow
-#green green
-
