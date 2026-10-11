@@ -11,5 +11,5 @@ def calculate_square_root():
     except ValueError:
         print("Invalid input. Please enter a correct one.")
 
-if __name__ == "__main__":
+if name == "main":
     calculate_square_root()
